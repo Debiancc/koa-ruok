@@ -13,7 +13,7 @@
   ```
 
   ```javascript
-     Koa.use(ruok('/areyouok?', () => {
+     Koa.use(ruok('/areyouok?', (ctx) => {
         return Promise.resolve({
           message: 'I am really ok.'
         });

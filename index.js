@@ -3,7 +3,7 @@ const defaultRes = { result : true };
 const handleResponse = (p, context) => {
   return Promise.resolve()
                 .then(() => {
-                  return typeof p === 'function' && p();
+                  return typeof p === 'function' && p(context);
                 })
                 .then(r => {
                   context.body = r || defaultRes;
