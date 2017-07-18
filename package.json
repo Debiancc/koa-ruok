@@ -1,0 +1,16 @@
+{
+  "name": "koa-ruok",
+  "version": "1.0.0",
+  "description": "The heart beat / health check / ping middleware of Koa",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "keywords": [
+    "Koa",
+    "health check",
+    "heart beat"
+  ],
+  "author": "debiancc",
+  "license": "MIT"
+}
