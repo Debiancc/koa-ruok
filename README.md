@@ -1,7 +1,7 @@
 # koa-ruok
 [![NPM](https://nodei.co/npm/koa-ruok.png?stars&downloads)](https://nodei.co/npm/koa-ruok/)
 
-[![i am ok](http://upload.ikanchai.com/2015/0502/1430536638903.gif)]
+(http://upload.ikanchai.com/2015/0502/1430536638903.gif)
 
 ## Usage
   ```javascript
