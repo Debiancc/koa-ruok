@@ -1,4 +1,4 @@
-const defaultRes = { result : true };
+const defaultRes = { status : 'up' };
 
 const handleResponse = (p, context) => {
   return Promise.resolve()
